@@ -1,5 +1,4 @@
-[Mis gustos]_(./mis  gustos.md)  [Mis hablilidades sociales]_(./mis hablilidades sociales.md)  [Mis habilidades tecnologicas]_(./mis habilidades tecnologicas)  [Mi  experiencia laboral]_(./mi experiencia labor.md)
-
+[Mis gustos]_(./mis  gustos.md) 
 ### Mis Gustos :)
 
 - Ultimamente me ha gustado el helado de capuchino  (muy rico por cierto jiji)

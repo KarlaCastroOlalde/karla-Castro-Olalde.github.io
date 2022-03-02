@@ -1,4 +1,4 @@
-[Mis gustos]_(./ mis gustos)
+[Mis gustos](./mis gustos)
 
 ### Mis Gustos :)
 

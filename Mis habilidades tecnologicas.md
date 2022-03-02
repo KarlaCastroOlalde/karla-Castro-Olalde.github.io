@@ -1,4 +1,4 @@
-[Mis gustos] _(./mis gustos.md) [Mis habilidades sociales]_ (./mis habilidades sociales.md) [Mis habilidades tecnologicas] _(/.mis habilidades tecnologicas.md) [Experiencia laboral]_ (/ .experiencia laboral.md)
+[ Mis gustos ](./misgustos)[ Mis habilidades sociales ](./mishabilidadessociales.md)[ Mis habilidades tecnologicas ](./mishabilidadestecnologicas.md)[Mi experiencia laboral](./miexperiencialaboral.md)
 
 ### Mis Habilidades Tecnologicas
 

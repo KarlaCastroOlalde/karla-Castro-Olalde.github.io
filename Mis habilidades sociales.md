@@ -1,4 +1,5 @@
-[Mis gustos](./misgustos.md)   [Mis habilidades sociales](./mishabilidadessociales.md)
+[Mis gustos](./misgustos.md)[Mis habilidades sociales](./mishabilidadessociales.md)
+
 
 
 ### Mis Habilidades Sociales 

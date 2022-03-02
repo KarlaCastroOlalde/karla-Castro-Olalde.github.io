@@ -2,4 +2,10 @@
 
 ### Mis Habilidades Tecnologicas
 
-- 
+- En si no tengo alguna habilidad tecnologica
+
+- Podria ser la quimica soy buena en  esa materia 
+
+- Masonemos se me dan las matematicas jeje
+
+

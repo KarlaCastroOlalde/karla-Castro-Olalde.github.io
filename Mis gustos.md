@@ -1,4 +1,5 @@
-[Mis gustos](./mis gustos.md)
+[Mis gustos](./mis gustos)
+
 ### Mis Gustos :)
 
 - Ultimamente me ha gustado el helado de capuchino  (muy rico por cierto jiji)

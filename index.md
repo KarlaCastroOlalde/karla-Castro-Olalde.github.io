@@ -1,5 +1,4 @@
+[ Mis gustos ](./gustos)[ Mis habilidades sociales ](./sociales.md)[ Mis habilidades tecnologicas ](./tecnologicas.md)[Mi experiencia laboral](./experiencia.md)
+
 ##  VIENVENIDO A MI PAGINA :)
 Hola que tal mi Nombre es Karliita tu servilleta, en esra pagina hablaremos recpecto a mi asi que ponte comodo que esto se va a poner bueno XD..
-
-
-[ Mis gustos ](./misgustos.md)[ Mis habilidades sociales ](./mishabilidadessociales.md)[ Mis habilidades tecnologicas ](./mishabilidadestecnologicas.md)[Mi experiencia laboral](./miexperiencialaboral.md)

@@ -1,4 +1,4 @@
-[ Mis gustos ](./gustos)[ Mis habilidades sociales ](./sociales.md)[ Mis habilidades tecnologicas ](./tecnologicas.md)[Mi experiencia laboral](./experiencia.md)
+[ Mis gustos ](./gustos) | [ Mis habilidades sociales ](./sociales.md) | [ Mis habilidades tecnologicas ](./tecnologicas.md) | [Mi experiencia laboral](./experiencia.md)
 
 ### Mis Habilidades Sociales 
 

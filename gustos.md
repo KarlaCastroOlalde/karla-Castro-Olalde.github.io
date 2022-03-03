@@ -6,8 +6,8 @@
 
 - En ocaciones me gusta salir a patinar 
 
--  Me encant mucho el estilo de musica del Rock 
+-  Me encanta mucho el estilo de musica del Rock 
 
 - amo el color negro 
 
-Y para finalizar en mis gustos me gustan mucho los gatito s 
+- Y para finalizar en mis gustos me gustan mucho los gatitos

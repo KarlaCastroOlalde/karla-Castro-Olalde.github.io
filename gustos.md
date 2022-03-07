@@ -11,3 +11,11 @@
 - amo el color negro 
 
 - Y para finalizar en mis gustos me gustan mucho los gatitos
+
+| Nro | Musica | Comida | animales | ratos libres |
+|-----|--------|--------|----------|--------------|
+| 1   | Rock   | Pastas | Panditas | Salir a pasear | 
+| 2   | Rock alternativo | Hamburgesas | Jirafas | Leer un libro | 
+| 3   | Ochenteras | Pizza | Gatos | Escuchar musica | 
+| 4   | Metal | Migas | Las vacas | Dormir | 
+| 5   | Viejitas | Los postres | Perros | comer | 
